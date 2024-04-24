@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6627f3f2b985409da8117b7b"
+  },
+  "id_equipo": "BEN",
+  "nombre": "Benfica",
+  "pais": "Lisbon, Portugal"
+},
+{
+  "_id": {
+    "$oid": "6627f710b985409da8117b7c"
+  },
+  "id_equipo": "PSG",
+  "nombre": "Paris Saint-Germain",
+  "pais": "Paris, Francia"
+},
+{
+  "_id": {
+    "$oid": "6627f7dab985409da8117b7d"
+  },
+  "id_equipo": "JUV",
+  "nombre": "Juventus F.C.",
+  "pais": "Turin, Italia"
+},
+{
+  "_id": {
+    "$oid": "6627f840b985409da8117b7e"
+  },
+  "id_equipo": "MHA",
+  "nombre": "Maccabi Haifa",
+  "pais": "Haifa, Israel"
+}]

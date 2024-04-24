@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "66284e1fb985409da8117bb9"
+  },
+  "idEquipo": "BEN",
+  "puntos": 14,
+  "partidosJugados": 6,
+  "partidosGanados": 4,
+  "partidosEmpatados": 2,
+  "partidosPerdidos": 0,
+  "golesFavor": 16,
+  "golesContra": 7,
+  "diferenciaGoles": 9
+},
+{
+  "_id": {
+    "$oid": "66284e59b985409da8117bba"
+  },
+  "idEquipo": "PSG",
+  "puntos": 14,
+  "partidosJugados": 6,
+  "partidosGanados": 4,
+  "partidosEmpatados": 2,
+  "partidosPerdidos": 0,
+  "golesFavor": 16,
+  "golesContra": 7,
+  "diferenciaGoles": 9
+},
+{
+  "_id": {
+    "$oid": "66284e8db985409da8117bbb"
+  },
+  "idEquipo": "JUV",
+  "puntos": 3,
+  "partidosJugados": 6,
+  "partidosGanados": 1,
+  "partidosEmpatados": 0,
+  "partidosPerdidos": 5,
+  "golesFavor": 9,
+  "golesContra": 13,
+  "diferenciaGoles": -4
+},
+{
+  "_id": {
+    "$oid": "66284ea8b985409da8117bbc"
+  },
+  "idEquipo": "MHA",
+  "puntos": 3,
+  "partidosJugados": 6,
+  "partidosGanados": 1,
+  "partidosEmpatados": 0,
+  "partidosPerdidos": 5,
+  "golesFavor": 7,
+  "golesContra": 21,
+  "diferenciaGoles": -14
+}]

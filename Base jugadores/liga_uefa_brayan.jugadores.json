@@ -1,0 +1,468 @@
+[{
+  "_id": {
+    "$oid": "6627fb5cb985409da8117b7f"
+  },
+  "nombre": "Anatoli",
+  "apellido": "Trubin",
+  "edad": "22",
+  "nacionalidad": "Ucraniana",
+  "posicion": "POR",
+  "id": "1",
+  "id_equipo": "BEN"
+},
+{
+  "_id": {
+    "$oid": "6627fc6bb985409da8117b80"
+  },
+  "nombre": "Antonio",
+  "apellido": "Silva",
+  "edad": "20",
+  "nacionalidad": "Portugesa",
+  "posicion": "DEF",
+  "id": "4",
+  "id_equipo": "BEN"
+},
+{
+  "_id": {
+    "$oid": "6627fcafb985409da8117b81"
+  },
+  "nombre": "Alvaro",
+  "apellido": "Fernandez",
+  "edad": "21",
+  "nacionalidad": "Española",
+  "posicion": "DEF",
+  "id": "3",
+  "id_equipo": "BEN"
+},
+{
+  "_id": {
+    "$oid": "6627fd3eb985409da8117b82"
+  },
+  "nombre": "Alexander",
+  "apellido": "Bah",
+  "edad": "26",
+  "nacionalidad": "Danesa",
+  "posicion": "DEF",
+  "id": "6",
+  "id_equipo": "BEN"
+},
+{
+  "_id": {
+    "$oid": "6627fd68b985409da8117b83"
+  },
+  "nombre": "Juan",
+  "apellido": "Bernat",
+  "edad": "31",
+  "nacionalidad": "Española",
+  "posicion": "DEF",
+  "id": "14",
+  "id_equipo": "BEN"
+},
+{
+  "_id": {
+    "$oid": "6627fdbdb985409da8117b84"
+  },
+  "nombre": "Fredrik",
+  "apellido": "Aursnes",
+  "edad": "28",
+  "nacionalidad": "Noruega",
+  "posicion": "MED",
+  "id": "8",
+  "id_equipo": "BEN"
+},
+{
+  "_id": {
+    "$oid": "6627fe0db985409da8117b85"
+  },
+  "nombre": "Orkun",
+  "apellido": "Kokçu",
+  "edad": "23",
+  "nacionalidad": "Turca",
+  "posicion": "MED",
+  "id": "10",
+  "id_equipo": "BEN"
+},
+{
+  "_id": {
+    "$oid": "6627feb9b985409da8117b87"
+  },
+  "nombre": "Rafa",
+  "apellido": "Silva",
+  "edad": "30",
+  "nacionalidad": "Portugesa",
+  "posicion": "MED",
+  "id": "27",
+  "id_equipo": "BEN"
+},
+{
+  "_id": {
+    "$oid": "6627ff00b985409da8117b88"
+  },
+  "nombre": "Florentino",
+  "apellido": "luis",
+  "edad": "24",
+  "nacionalidad": "Portugesa",
+  "posicion": "MED",
+  "id": "61",
+  "id_equipo": "BEN"
+},
+{
+  "_id": {
+    "$oid": "6627ff39b985409da8117b89"
+  },
+  "nombre": "Joao",
+  "apellido": "Neves",
+  "edad": "19",
+  "nacionalidad": "Portugesa",
+  "posicion": "MED",
+  "id": "87",
+  "id_equipo": "BEN"
+},
+{
+  "_id": {
+    "$oid": "6627ffbab985409da8117b8a"
+  },
+  "nombre": "Angel",
+  "apellido": "Di Maria",
+  "edad": "36",
+  "nacionalidad": "Argentina",
+  "posicion": "DEL",
+  "id": "11",
+  "id_equipo": "BEN"
+},
+{
+  "_id": {
+    "$oid": "66280068b985409da8117b8b"
+  },
+  "nombre": "Keylor",
+  "apellido": "Navas",
+  "edad": "37",
+  "nacionalidad": "Costarricense",
+  "posicion": "POR",
+  "id": "1",
+  "id_equipo": "PSG"
+},
+{
+  "_id": {
+    "$oid": "662800eeb985409da8117b8c"
+  },
+  "nombre": "Presnel",
+  "apellido": "Kimpembe",
+  "edad": "28",
+  "nacionalidad": "Francesa",
+  "posicion": "DEF",
+  "id": "3",
+  "id_equipo": "PSG"
+},
+{
+  "_id": {
+    "$oid": "662804d5b985409da8117b8d"
+  },
+  "nombre": "Lucas",
+  "apellido": "Hernandez",
+  "edad": "28",
+  "nacionalidad": "Francesa",
+  "posicion": "DEF",
+  "id": "21",
+  "id_equipo": "PSG"
+},
+{
+  "_id": {
+    "$oid": "6628055db985409da8117b8f"
+  },
+  "nombre": "Manuel",
+  "apellido": "Ugarte",
+  "edad": "23",
+  "nacionalidad": "Uruguaya",
+  "posicion": "MED",
+  "id": "4",
+  "id_equipo": "PSG"
+},
+{
+  "_id": {
+    "$oid": "662805e8b985409da8117b90"
+  },
+  "nombre": "Fabian",
+  "apellido": "Ruiz",
+  "edad": "28",
+  "nacionalidad": "Española",
+  "posicion": "MED",
+  "id": "8",
+  "id_equipo": "PSG"
+},
+{
+  "_id": {
+    "$oid": "66280626b985409da8117b91"
+  },
+  "nombre": "Kylian",
+  "apellido": "Mbappe",
+  "edad": "25",
+  "nacionalidad": "Francesa",
+  "posicion": "DEL",
+  "id": "7",
+  "id_equipo": "PSG"
+},
+{
+  "_id": {
+    "$oid": "66280660b985409da8117b92"
+  },
+  "nombre": "Gonçalo",
+  "apellido": "Ramos",
+  "edad": "22",
+  "nacionalidad": "Portugesa",
+  "posicion": "DEL",
+  "id": "9",
+  "id_equipo": "PSG"
+},
+{
+  "_id": {
+    "$oid": "6628068cb985409da8117b93"
+  },
+  "nombre": "Ousmane",
+  "apellido": "Dembele",
+  "edad": "26",
+  "nacionalidad": "Francesa",
+  "posicion": "DEL",
+  "id": "10",
+  "id_equipo": "PSG"
+},
+{
+  "_id": {
+    "$oid": "6628075cb985409da8117b94"
+  },
+  "nombre": "Wojciech",
+  "apellido": "Szczesny",
+  "edad": "34",
+  "nacionalidad": "Polaca",
+  "posicion": "POR",
+  "id": "1",
+  "id_equipo": "JUV"
+},
+{
+  "_id": {
+    "$oid": "662807c9b985409da8117b95"
+  },
+  "nombre": "Federico",
+  "apellido": "Gatti",
+  "edad": "25",
+  "nacionalidad": "Italiana",
+  "posicion": "DEF",
+  "id": "4",
+  "id_equipo": "JUV"
+},
+{
+  "_id": {
+    "$oid": "662808ecb985409da8117b96"
+  },
+  "nombre": "Danilo",
+  "apellido": "",
+  "edad": "32",
+  "nacionalidad": "Brasileña",
+  "posicion": "DEF",
+  "id": "6",
+  "id_equipo": "JUV"
+},
+{
+  "_id": {
+    "$oid": "66280916b985409da8117b97"
+  },
+  "nombre": "Alex",
+  "apellido": "Sandro",
+  "edad": "33",
+  "nacionalidad": "Brasileña",
+  "posicion": "DEF",
+  "id": "12",
+  "id_equipo": "JUV"
+},
+{
+  "_id": {
+    "$oid": "6628098eb985409da8117b98"
+  },
+  "nombre": "Filip",
+  "apellido": "Kostic",
+  "edad": "31",
+  "nacionalidad": "Serbia",
+  "posicion": "MED",
+  "id": "11",
+  "id_equipo": "JUV"
+},
+{
+  "_id": {
+    "$oid": "662809d2b985409da8117b99"
+  },
+  "nombre": "Weston",
+  "apellido": "McKennie",
+  "edad": "25",
+  "nacionalidad": "Estadounidense",
+  "posicion": "MED",
+  "id": "16",
+  "id_equipo": "JUV"
+},
+{
+  "_id": {
+    "$oid": "66280a16b985409da8117b9a"
+  },
+  "nombre": "Carlos",
+  "apellido": "Alcaraz",
+  "edad": "21",
+  "nacionalidad": "Argentina",
+  "posicion": "MED",
+  "id": "26",
+  "id_equipo": "JUV"
+},
+{
+  "_id": {
+    "$oid": "66280a58b985409da8117b9b"
+  },
+  "nombre": "Federico",
+  "apellido": "Chiesa",
+  "edad": "26",
+  "nacionalidad": "Italiana",
+  "posicion": "DEL",
+  "id": "7",
+  "id_equipo": "JUV"
+},
+{
+  "_id": {
+    "$oid": "66280a90b985409da8117b9c"
+  },
+  "nombre": "Dusan",
+  "apellido": "Vlahovic",
+  "edad": "24",
+  "nacionalidad": "Serbia",
+  "posicion": "DEL",
+  "id": "9",
+  "id_equipo": "JUV"
+},
+{
+  "_id": {
+    "$oid": "66280bcdb985409da8117b9d"
+  },
+  "nombre": "Itamar",
+  "apellido": "Nitzan",
+  "edad": "26",
+  "nacionalidad": "Isreali",
+  "posicion": "POR",
+  "id": "16",
+  "id_equipo": "MHA"
+},
+{
+  "_id": {
+    "$oid": "66280c1fb985409da8117b9e"
+  },
+  "nombre": "Daniel",
+  "apellido": "Sundgren",
+  "edad": "33",
+  "nacionalidad": "Sueca",
+  "posicion": "DEF",
+  "id": "2",
+  "id_equipo": "MHA"
+},
+{
+  "_id": {
+    "$oid": "66280c4cb985409da8117b9f"
+  },
+  "nombre": "Shon",
+  "apellido": "Goldberg",
+  "edad": "28",
+  "nacionalidad": "Israeli",
+  "posicion": "DEF",
+  "id": "3",
+  "id_equipo": "MHA"
+},
+{
+  "_id": {
+    "$oid": "66280c88b985409da8117ba0"
+  },
+  "nombre": "Sun",
+  "apellido": "Menahem",
+  "edad": "30",
+  "nacionalidad": "Israeli",
+  "posicion": "DEF",
+  "id": "12",
+  "id_equipo": "MHA"
+},
+{
+  "_id": {
+    "$oid": "66280d00b985409da8117ba1"
+  },
+  "nombre": "Ali",
+  "apellido": "Mohamed",
+  "edad": "28",
+  "nacionalidad": "Nigeriana",
+  "posicion": "MED",
+  "id": "4",
+  "id_equipo": "MHA"
+},
+{
+  "_id": {
+    "$oid": "66280d3cb985409da8117ba2"
+  },
+  "nombre": "Show",
+  "apellido": "",
+  "edad": "25",
+  "nacionalidad": "Angoleña",
+  "posicion": "MED",
+  "id": "5",
+  "id_equipo": "MHA"
+},
+{
+  "_id": {
+    "$oid": "66280d6ab985409da8117ba3"
+  },
+  "nombre": "Gadi",
+  "apellido": "Kinda",
+  "edad": "28",
+  "nacionalidad": "Israeli",
+  "posicion": "MED",
+  "id": "6",
+  "id_equipo": "MHA"
+},
+{
+  "_id": {
+    "$oid": "66280da9b985409da8117ba4"
+  },
+  "nombre": "Lior",
+  "apellido": "Kasa",
+  "edad": "18",
+  "nacionalidad": "Israeli",
+  "posicion": "MED",
+  "id": "14",
+  "id_equipo": "MHA"
+},
+{
+  "_id": {
+    "$oid": "66280deeb985409da8117ba5"
+  },
+  "nombre": "Kenny",
+  "apellido": "Saief",
+  "edad": "30",
+  "nacionalidad": "Estadounidense",
+  "posicion": "MED",
+  "id": "15",
+  "id_equipo": "MHA"
+},
+{
+  "_id": {
+    "$oid": "66280f69b985409da8117ba6"
+  },
+  "nombre": "Dolev",
+  "apellido": "Haziza",
+  "edad": "28",
+  "nacionalidad": "Israeli",
+  "posicion": "DEL",
+  "id": "8",
+  "id_equipo": "MHA"
+},
+{
+  "_id": {
+    "$oid": "66280f9ab985409da8117ba7"
+  },
+  "nombre": "Suf",
+  "apellido": "Podgoreanu",
+  "edad": "22",
+  "nacionalidad": "Israeli",
+  "posicion": "DEL",
+  "id": "17",
+  "id_equipo": "MHA"
+}]

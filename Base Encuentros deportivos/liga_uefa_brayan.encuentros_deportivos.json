@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "662814d7b985409da8117bad"
+  },
+  "Jornada": "1",
+  "equipoLocal": "BEN",
+  "equipoVisitante": "MHA",
+  "fecha": "06-09-2022",
+  "resultado": "2:0(0:0)",
+  "estadio": "Estadio de Luz, Lisboa"
+},
+{
+  "_id": {
+    "$oid": "66281527b985409da8117bae"
+  },
+  "Jornada": "1",
+  "equipoLocal": "PSG",
+  "equipoVisitante": "JUV",
+  "fecha": "06-09-2022",
+  "resultado": "2:1(2:0)",
+  "estadio": "Parque de los Principes, Paris"
+},
+{
+  "_id": {
+    "$oid": "662815f6b985409da8117baf"
+  },
+  "Jornada": "2",
+  "equipoLocal": "JUV",
+  "equipoVisitante": "BEN",
+  "fecha": "14-09-2022",
+  "resultado": "1:2(1:1)",
+  "estadio": "Juventus Staduium, Turin"
+},
+{
+  "_id": {
+    "$oid": "66281629b985409da8117bb0"
+  },
+  "Jornada": "2",
+  "equipoLocal": "MHA",
+  "equipoVisitante": "PSG",
+  "fecha": "14-09-2022",
+  "resultado": "1:3(1:1)",
+  "estadio": "Estadio Sammy Ofer, Haifa"
+},
+{
+  "_id": {
+    "$oid": "662816e8b985409da8117bb1"
+  },
+  "Jornada": "3",
+  "equipoLocal": "JUV",
+  "equipoVisitante": "MHA",
+  "fecha": "5-10-2022",
+  "resultado": "3:1(1:0)",
+  "estadio": "Juventus Stadium, Turin"
+},
+{
+  "_id": {
+    "$oid": "66281733b985409da8117bb2"
+  },
+  "Jornada": "3",
+  "equipoLocal": "BEN",
+  "equipoVisitante": "PSG",
+  "fecha": "5-10-2022",
+  "resultado": "1:1(1:1)",
+  "estadio": "Estadio de Luz, Lisboa"
+},
+{
+  "_id": {
+    "$oid": "662817b7b985409da8117bb3"
+  },
+  "Jornada": "4",
+  "equipoLocal": "MHA",
+  "equipoVisitante": "JUV",
+  "fecha": "11-10-2022",
+  "resultado": "2:0(2:0)",
+  "estadio": "Estadio Sammy Ofer, Haifa"
+},
+{
+  "_id": {
+    "$oid": "66281824b985409da8117bb4"
+  },
+  "Jornada": "4",
+  "equipoLocal": "PSG",
+  "equipoVisitante": "BEN",
+  "fecha": "11-10-2022",
+  "resultado": "1:1(1:0)",
+  "estadio": "Parque de los Principes, Paris"
+},
+{
+  "_id": {
+    "$oid": "6628185cb985409da8117bb5"
+  },
+  "Jornada": "5",
+  "equipoLocal": "PSG",
+  "equipoVisitante": "MHA",
+  "fecha": "25-10-2022",
+  "resultado": "7:2(4:1)",
+  "estadio": "Parque de los Principes, Paris"
+},
+{
+  "_id": {
+    "$oid": "6628189ab985409da8117bb6"
+  },
+  "Jornada": "5",
+  "equipoLocal": "BEN",
+  "equipoVisitante": "JUV",
+  "fecha": "25-10-2022",
+  "resultado": "4:3(3:1)",
+  "estadio": "Estadio de la Luz, Lisboa"
+},
+{
+  "_id": {
+    "$oid": "662818deb985409da8117bb7"
+  },
+  "Jornada": "6",
+  "equipoLocal": "JUV",
+  "equipoVisitante": "PSG",
+  "fecha": "2-11-2022",
+  "estadio": "Juventus Stadium, Turin",
+  "resultado": "1:2(1:1)"
+},
+{
+  "_id": {
+    "$oid": "66281912b985409da8117bb8"
+  },
+  "Jornada": "6",
+  "equipoLocal": "MHA",
+  "equipoVisitante": "BEN",
+  "fecha": "2-11-2022",
+  "estadio": "Estadio Sammy Ofer, Haifa",
+  "resultado": "1:6(1:1)"
+}]

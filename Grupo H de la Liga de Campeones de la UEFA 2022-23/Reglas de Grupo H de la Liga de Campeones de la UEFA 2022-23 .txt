@@ -1,0 +1,29 @@
+Reglas del Torneo
+
+Deportistas
+•	Los equipos pueden inscribir un máximo de 25 jugadores en su lista A para la fase de grupos.
+
+•	Cada equipo debe tener al menos 8 jugadores formados localmente.
+
+•	Los equipos pueden hacer un número ilimitado de cambios en su lista B, que puede contener jugadores nacidos a partir del 1 de enero de 2001 y que hayan sido elegibles para el club durante un período ininterrumpido de dos años desde los 15 años.
+
+Encuentros
+•	Cada equipo juega un total de 6 partidos en la fase de grupos, 3 en casa y 3 de visitante.
+•	Se otorgan 3 puntos por victoria, 1 punto por empate y 0 puntos por derrota.
+•	En caso de empate en puntos entre dos o más equipos, se aplican los siguientes criterios de desempate
+1.	Mayor diferencia de goles en todos los partidos del grupo.
+2.	Mayor cantidad de goles marcados en todos los partidos del grupo.
+3.	Mayor cantidad de victorias en todos los partidos del grupo.
+4.	Mayor cantidad de goles marcados como visitante en todos los partidos del grupo.
+5.	Menor cantidad de tarjetas rojas en todos los partidos del grupo.
+6.	Menor cantidad de tarjetas amarillas en todos los partidos del grupo.
+7.	Sorteo por parte de la UEFA.
+
+Árbitros
+•	Cada partido es dirigido por un equipo arbitral compuesto por un árbitro principal y dos árbitros asistentes.
+•	Los árbitros deben seguir las reglas y regulaciones establecidas por la UEFA para los partidos de la Liga de Campeones.
+
+Informes Requeridos
+•	Tabla de Posiciones: Mostrar la clasificación actualizada de los equipos en el Grupo B, incluyendo puntos, partidos jugados, partidos ganados, partidos empatados, partidos perdidos, goles a favor, goles en contra y diferencia de goles.
+•	Estadísticas de Jugadores: Mostrar las estadísticas de los jugadores en el Grupo B, incluyendo goles marcados, asistencias, tarjetas amarillas, tarjetas rojas, etc.
+•	Historial de Encuentros: Mostrar un historial de los encuentros jugados en el Grupo B, incluyendo resultados, alineaciones, goleadores, etc.
