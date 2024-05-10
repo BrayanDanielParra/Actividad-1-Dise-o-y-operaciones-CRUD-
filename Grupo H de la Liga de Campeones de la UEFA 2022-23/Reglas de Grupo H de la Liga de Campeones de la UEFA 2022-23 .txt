@@ -24,6 +24,6 @@ Encuentros
 •	Los árbitros deben seguir las reglas y regulaciones establecidas por la UEFA para los partidos de la Liga de Campeones.
 
 Informes Requeridos
-•	Tabla de Posiciones: Mostrar la clasificación actualizada de los equipos en el Grupo B, incluyendo puntos, partidos jugados, partidos ganados, partidos empatados, partidos perdidos, goles a favor, goles en contra y diferencia de goles.
-•	Estadísticas de Jugadores: Mostrar las estadísticas de los jugadores en el Grupo B, incluyendo goles marcados, asistencias, tarjetas amarillas, tarjetas rojas, etc.
-•	Historial de Encuentros: Mostrar un historial de los encuentros jugados en el Grupo B, incluyendo resultados, alineaciones, goleadores, etc.
+•	Tabla de Posiciones: Mostrar la clasificación actualizada de los equipos en el Grupo H, incluyendo puntos, partidos jugados, partidos ganados, partidos empatados, partidos perdidos, goles a favor, goles en contra y diferencia de goles.
+•	Estadísticas de Jugadores: Mostrar las estadísticas de los jugadores en el Grupo H, incluyendo goles marcados, asistencias, tarjetas amarillas, tarjetas rojas, etc.
+•	Historial de Encuentros: Mostrar un historial de los encuentros jugados en el Grupo H, incluyendo resultados, alineaciones, goleadores, etc.
